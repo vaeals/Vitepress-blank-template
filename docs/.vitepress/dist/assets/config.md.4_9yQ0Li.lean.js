@@ -1,0 +1,1 @@
+import{_ as a,o as e,c as t,R as o}from"./chunks/framework.zYxU27vm.js";const m=JSON.parse('{"title":"教程","description":"","frontmatter":{},"headers":[],"relativePath":"config.md","filePath":"config.md"}'),r={name:"config.md"},i=o("",6),n=[i];function h(c,l,s,d,_,f){return e(),t("div",null,n)}const b=a(r,[["render",h]]);export{m as __pageData,b as default};

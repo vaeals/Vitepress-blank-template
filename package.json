@@ -1,0 +1,19 @@
+{ "name": "Vitepress-blank-template",
+  "version": "1.0.0",
+  "description": "一个空白内容的vitepress模板",
+  "keywords": "vitepress，vite,vue,docs,wiki,vue.vitejs,vuejs",
+  "homepage":"https://github.com/vaeals/Vitepress-blank-template",
+  "bugs":{"url":"https://gitee.com/reonra/vitepress-blank-template","email":"forward@vaeal.com"},
+  "license":"MIT",
+  "author": { "name": "vaeals", "email": "forward@vaeal.com", "url": " https://vite.vaeal.com" },
+  "main": "./index.js",
+  "repository": { "type" : "git", "url" : "https://gitee.com/reonra/vitepress-blank-template.git" },
+  "devDependencies": {
+    "vitepress": "^1.0.0-rc.31"
+  },
+  "scripts": {
+    "dev": "vitepress dev docs",
+    "build": "vitepress build docs",
+    "preview": "vitepress preview docs"
+  }
+}
